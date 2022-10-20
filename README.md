@@ -1,3 +1,12 @@
+# VBA EXCEL PROJECT: STOCK ANALYSIS
+
+## Overview
+
+The purpose of this project is to help Steve, who just got his degree in Finance, and his parents
+to analyze by refactoring a VBA script's code, a dataset with information from multiple corporations and decide the best ones to invest in.
+In order to accomplish this goal, we created a VBA Excel sheet that runs all the aspects they need for the analysis,
+such as Total Daily Volume and Return, in a matter of seconds.
+
 ## Analysis & Results
 
 In order to analyze this dataset, we first have to take a look at the information inside it which is the 
