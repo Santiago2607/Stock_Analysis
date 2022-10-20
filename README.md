@@ -1,1 +1,37 @@
-# Stock_Analysis
+## Analysis & Results
+
+In order to analyze this dataset, we first have to take a look at the information inside it which is the 
+one we are going to use for this project and which contains stocks data such as their ticker value, 
+the date they all started, their opening, highest, lowest, closing, and adjustment closing price, 
+as well as the total volume each one of them has.
+
+After analyzing the data of each stock, we created the following code in Excel which allowed us 
+to give more detailed, understandable, and summarized information for Steve and his parents to review.
+
+*INSERT FINAL CODE*
+
+Furthermore, we have also provided one chart for each year analyzed that shows each stock along with their final
+total daily volume and returns. In addition, as we know how long it can take to analyze multiple pieces of information,
+for a faster accomplish of it we have created a "Run All Analysis" button that gives you the data
+of the year you want to review and the elapsed run time it takes to the sheet to analyze this data.
+
+![VBA_Challenge_2017.png.png](VBA_Challenge_2017.png.png)
+
+![VBA_Challenge_2018.png.png](VBA_Challenge_2018.png.png)
+
+## Summary
+
+### Advantages and Disadvantages of Refactoring Code in General
+
+Some of the most important advantages of using refactoring, in general, are that this process can help us reduce
+duplications or redundant codes, which make it easier for programmers to not create a whole new code but just restructure the old one
+by creating a new and clearer one.
+
+The disadvantages, on the contrary, consist of when using refactoring small errors can produce an even greater error that may end
+in the creation of a new code or a code for the customer hard to read. Also, refactoring can be hard to accomplish working on a
+team where not everybody has good coordination producing an unclear code. 
+
+### How Do These Pros and Cons Apply to Refactoring the Original VBA Script?
+
+The most beneficial part of using refactoring to the original VBA script was that we could summarize some of the code lines into 
+smaller and more complex code, creating a cleaner structure of codes easy to remember and understand if we come back to this project after weeks or months. 
