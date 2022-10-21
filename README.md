@@ -14,11 +14,6 @@ one we are going to use for this project and which contains stocks data such as 
 the date they all started, their opening, highest, lowest, closing, and adjustment closing price, 
 as well as the total volume each one of them has.
 
-After analyzing the data of each stock, we created the following code in Excel which allowed us 
-to give more detailed, understandable, and summarized information for Steve and his parents to review.
-
-*INSERT FINAL CODE*
-
 Furthermore, we have also provided one chart for each year analyzed that shows each stock along with their final
 total daily volume and returns. In addition, as we know how long it can take to analyze multiple pieces of information,
 for a faster accomplish of it we have created a "Run All Analysis" button that gives you the data
